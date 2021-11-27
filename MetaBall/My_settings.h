@@ -6,7 +6,7 @@
 
 
 // ---- SECTION: COMMON ----
-
+//#define PROJ_SHOW_FPS_COUNTER
 
 // Choose a Screen Mode
 // For more information on each mode, see:
@@ -29,7 +29,7 @@
 
 // Limit the framerate so the game doesn't run too fast
 // Optional. Default is 30.
-#define PROJ_FPS 200
+#define PROJ_FPS 255
 
 
 // Choose how to use Pokitto's "extra" 4kb of RAM.
